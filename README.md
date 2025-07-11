@@ -1,1 +1,1 @@
-# projet_git_collectif_mendrika
+# projet_git_collectif
